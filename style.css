@@ -2,8 +2,33 @@
     propriedade: valor;
 }  */
 
+html{
+    background-color: rgb(59, 57, 57);
+}
 #cabeçalho{
     text-align: center;
-    background-color: rgb(58, 56, 56);
-    color: chocolate;
+    color: rgb(190, 13, 13);
+}
+
+#navegar{
+    text-align: center;
+    background-color: black;
+    color: brown;
+}
+
+.navegar a:hover{
+    border-bottom: 1px;
+    background-color: chocolate;
+    color: bisque;
+    border-radius: 1px;
+}
+
+#corpo{
+    text-align: center;
+    color: brown;
+}
+
+#rodapé{
+    text-align: center;
+    color: brown;
 }
