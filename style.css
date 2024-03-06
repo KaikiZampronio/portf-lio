@@ -16,6 +16,18 @@ html{
     color: brown;
 }
 
+.navegar{
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.navegar a{
+    text-decoration: none;
+    color: bisque;
+    padding: 40px;
+}
+
 .navegar a:hover{
     border-bottom: 1px;
     background-color: chocolate;
