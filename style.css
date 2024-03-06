@@ -1,0 +1,9 @@
+/*selector {
+    propriedade: valor;
+}  */
+
+#cabeçalho{
+    text-align: center;
+    background-color: rgb(58, 56, 56);
+    color: chocolate;
+}
